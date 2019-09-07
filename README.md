@@ -4,6 +4,7 @@ SWP Rest API 2019
 Rest API em Python usando o conteúdo disponível em https://swapi.co/ armazenado em base MongoDB.
 
 Primeiramente, executar o comando abaixo no terminal:
+
 $ pip install -r requirements.txt
 
 Compilar e executar o código servidor.py em um terminal e fazer o mesmo para cliente.py em outra janela de terminal.
